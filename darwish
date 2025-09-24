@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>كراج البشائر لتصليح السيارات</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            color: #333;
+        }
+        .contact {
+            margin-top: 20px;
+        }
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        iframe {
+            margin-top: 20px;
+            width: 100%;
+            max-width: 600px;
+            height: 450px;
+            border: 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>كراج البشائر لتصليح السيارات</h1>
+    
+    <div class="contact">
+        <p>📞 الهاتف: <a href="tel:98808029">98808029</a></p>
+        <p>✉ البريد الإلكتروني: <a href="mailto:example@email.com">example@email.com</a></p>
+    </div>
+    
+    <!-- حطي رابط Embed الصحيح من Google Maps هنا -->
+    <iframe 
+        src="https://share.google/jHuCy6cZffMh00NcG" 
+        allowfullscreen="" 
+        loading="lazy">
+<p>📍 الموقع: 
+  <a href="https://share.google/Fo5nqdd9C4Jq5Jy2j" target="_blank">
+    اضغطي هنا لفتح الخريطة
+  </a>
+</p>
+    </iframe>
+</body>
+</html>
